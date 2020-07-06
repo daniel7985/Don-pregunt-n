@@ -1,2 +1,2 @@
-# Don-pregunt-n
+# Don-preguntín
 Archivo del juego.

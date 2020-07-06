@@ -1,2 +1,2 @@
 # Don-preguntín
-Archivo del juego.
+Apk del juego.
